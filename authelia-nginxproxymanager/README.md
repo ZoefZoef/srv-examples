@@ -6,7 +6,7 @@
 
 ### Authelia files:
 - configuration.yml
-- uses_database.yml
+- users_database.yml
 
 ### Nginx Proxy Manager configuration:
 - auth.example.com
