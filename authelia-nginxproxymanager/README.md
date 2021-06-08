@@ -14,4 +14,3 @@
 
 #### References
 - https://www.reddit.com/r/selfhosted/comments/i8lx8t/authelia_and_nginx_proxy_manager_help/
-- 
